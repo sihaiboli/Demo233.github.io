@@ -145,10 +145,10 @@ $ cd hyde/
 * 删除CNAME中的内容，如果不改会提示域名已经存在，因为这个是别人的项目，人家已经在github上注册了，后面会介绍怎么配置自己的域名
 
 > $ rm -rm .git/ # 删除原本的.git 文件使用自己的.git\
-$ git init\
-$ git add .\
-$ git commit -m "beautiful jekyll theme"\
-$ git remote add https://github.com/Demo233/Demo233.github.io.git # 记得退回历史版本之后再进行这里的操作不然会报错的\
+$ git init
+$ git add .
+$ git commit -m "beautiful jekyll theme"
+$ git remote add https://github.com/Demo233/Demo233.github.io.git # 记得退回历史版本之后再进行这里的操作不然会报错的
 $ git push origin master
 
 后面的和无样式博客发布是一样的，只要注意修改_config.yml文件，其他应该没什么大碍了。
