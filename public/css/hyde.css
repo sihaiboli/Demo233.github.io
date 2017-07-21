@@ -143,7 +143,12 @@ a.sidebar-nav-item:focus {
   }
 }
 
-<!-- zyh -->
+/*
+ * author:zyh
+ *
+ * fix pages width problem
+ */
+
 @media (min-width: 80em) {
   .content {
     max-width: 70rem;
