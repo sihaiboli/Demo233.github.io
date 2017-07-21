@@ -134,10 +134,21 @@ a.sidebar-nav-item:focus {
   }
 }
 
+
 @media (min-width: 64em) {
   .content {
+    max-width: 54rem;
     margin-left: 22rem;
     margin-right: 4rem;
+  }
+}
+
+<!-- zyh -->
+@media (min-width: 80em) {
+  .content {
+    max-width: 70rem;
+    margin-left: 24rem;
+    margin-right: 6rem;
   }
 }
 
