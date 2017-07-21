@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 使用github-jekyll-ubuntu搭建个人博客网站
 ---
 

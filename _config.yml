@@ -7,15 +7,15 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            Zhao Yihao
+title:            赵一好的技术博客
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      '恐惧只能使自己盲目，盲目只能夸大魔鬼的狰狞嘴脸；也许我的样子比它们更可怕，当我以命相拼，一往无前！只要我还有一根完整的龙骨，绝不驶进避风的港湾；把生命放在征途上，让勇敢来决定道路的宽窄、长短。 -- 白桦的诗《船》'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
   name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  url:            https://twitter.com/cnnqjban
 
 paginate:         5
 
