@@ -9,7 +9,7 @@ relative_permalinks: false
 # Setup
 title:            赵一好的技术博客
 tagline:          'A Jekyll theme'
-description:      '恐惧只能使自己盲目，盲目只能夸大魔鬼的狰狞嘴脸；也许我的样子比它们更可怕，当我以命相拼，一往无前！只要我还有一根完整的龙骨，绝不驶进避风的港湾；把生命放在征途上，让勇敢来决定道路的宽窄、长短。 -- 白桦的诗《船》'
+description:      '恐惧只能使自己盲目<br />盲目只能夸大魔鬼的狰狞嘴脸<br />也许我的样子比它们更可怕<br />当我以命相拼<br />一往无前<br />只要我还有一根完整的龙骨<br />绝不驶进避风的港湾<br />把生命放在征途上<br />让勇敢来决定道路的宽窄、长短<br /> -- 白桦的诗《船》'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
