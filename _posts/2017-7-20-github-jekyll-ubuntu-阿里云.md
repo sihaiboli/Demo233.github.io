@@ -7,7 +7,7 @@ title: 使用github-jekyll-ubuntu搭建个人博客网站
 
 这个是我使用**github**和**jekyll**搭建的[博客](http://www.zonegood.com),运行环境是**ubuntu 1.6.04**使用的域名是[阿里云](https://cn.aliyun.com/),听说.tk的也不错，但是我注册的域名在.tk很贵
 
-推荐: [搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html),[Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+推荐: [github Pages和Jekyll入门](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html),[Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
 ## 附录
 
@@ -67,7 +67,7 @@ $ sudo make distclean
 
 ### jekyll安装
 
-[jekyll官网](http://jekyll.com.cn/docs/installation/),不懂得可以去查看并安装jekyll
+[jekyll官网](http://jekyll.com.cn/docs/installation/),jekyll的doc一栏中也提供了安装的参考
 
 ``` 
 $ sudo gem install jekyll
