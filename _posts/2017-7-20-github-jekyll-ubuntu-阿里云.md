@@ -189,3 +189,5 @@ $ git push origin master
 在云解析DNS选项卡中找到自己购买的域名选项，并点击“解析”
 
 在“解析设置”一栏中选择“添加解析”，记录类型填写为CNAME，主机记录填写www，记录值在这里以我的为例填写demo233.github.io之后保存。推荐一片博文[解析域名的时候不同的项目代表什么含义？主机记录、记录类型、线路类型、记录值、MX优先级、TTL](http://blog.csdn.net/pzasdq/article/details/51171424)
+
+推荐 : http://jmcglone.com/guides/github-pages/
