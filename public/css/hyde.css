@@ -70,6 +70,35 @@ html {
   }
 }
 
+
+@media (min-width: 64em) {
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 22rem;
+    text-align: left;
+  }
+}
+
+/*
+ * author:zyh
+ *
+ * fix pages width problem
+ */
+
+@media (min-width: 80em) {
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 25rem;
+    text-align: left;
+  }
+}
+
 /* Sidebar links */
 .sidebar a {
   color: #fff;
