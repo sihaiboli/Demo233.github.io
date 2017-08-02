@@ -9,8 +9,8 @@ relative_permalinks: false
 # Setup
 title:            赵一好的技术博客
 tagline:          'A Jekyll theme'
-description:      '恭喜你捕捉到了一只野生的大学生！'
-url:              http://hyde.getpoole.com
+description:      '预测未来的最好方式就是去创造它'
+url:              http://github.com/Demo233
 baseurl:          /
 
 author:
