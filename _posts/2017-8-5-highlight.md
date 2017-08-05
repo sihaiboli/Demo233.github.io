@@ -3,18 +3,30 @@ layout: post
 title: highlight网页代码高亮显示
 ---
 
-#### 代码高亮都可以用吗？
+#### 使用
 
-* html代码11:
+1. 引入highlight.min.js和monokai_sublime.min.css，使用initHighlightingOnLoad()初始化.
 
 <pre>
-<code class="html">
-    <html>
-        <head></head>
-        <body>html高亮</body>
-    </html>    
+<code class="js">
+      <link href="http://cdn.bootcss.com/highlight.js/8.0/styles/monokai_sublime.min.css" rel="stylesheet">
+      <script src="http://cdn.bootcss.com/highlight.js/8.0/highlight.min.js"></script>
+      <script >hljs.initHighlightingOnLoad();</script>
 </code>
 </pre>
+
+2. 使用`<pre>`和`<code class="html">` 指定文本的内容信息例如
+<pre>
+<code class="html">
+    <pre>
+    <code class="js">
+        code.....
+    </code>
+    </pre>
+</code>
+</pre>
+
+#### 展示
 
 * js代码:
 
@@ -48,3 +60,16 @@ title: highlight网页代码高亮显示
    }
 </code>
 </pre>
+
+* linux
+
+<pre>
+<code class="c">
+   int main(){
+    printf("c");
+    return 1;
+   }
+</code>
+</pre>
+
+官网 https://highlightjs.org/download/
