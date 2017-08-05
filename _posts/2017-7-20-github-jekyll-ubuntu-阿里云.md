@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 使用github-jekyll-ubuntu搭建个人博客网站
+title: github-jekyll搭建个人博客网站
 ---
 
 # 简述
