@@ -15,16 +15,7 @@ title: highlight网页代码高亮显示
 
 2. 使用`<pre>`和`<code class="html">` 指定文本的内容信息例如
 
-`<pre>`
-
-    `<code class="js">`
-
-        code.....
-        
-    `</code>`
-    
-`</pre>`
-
+`<pre><code class="js">code.....</code></pre>`
 
 #### 展示
 
