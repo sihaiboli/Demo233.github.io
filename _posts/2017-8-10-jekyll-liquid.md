@@ -1,6 +1,6 @@
 ---
 layout: post
-title: liquid使用
+title: liquid
 ---
 
 传送门
