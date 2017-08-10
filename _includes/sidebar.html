@@ -26,7 +26,7 @@
         {% endif %}
       {% endfor %}
       -->
-      {% for node in site.posts limit:6 %}
+      {% for node in site.posts limit:12 %}
       <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
       {% endfor %}
 
